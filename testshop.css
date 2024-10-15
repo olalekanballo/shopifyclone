@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: sans-serif;
+}
+body{
+    
+    background-color: #dff9ee;
+}
+.img1{
+    text-align: center;
+}
+.img2{
+    width: 150px;
+}
+.sec{
+    text-align: center;
+    font-size: x-large;
+}
+p{
+    font-size:17px;
+}
+.btn{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.btn1{
+    height: 45px;
+    color: white;
+    background: black;
+    border-radius: 30px;
+    width: 150px;
+    font-size:15px;
+    font-weight: bold;
+}
+.btn2{
+    border-radius: 30px;
+    width: 150px;
+    font-size:15px;
+    font-weight: bold;
+    background: white;
+}
+.img3{
+    width: 400px;
+    align-items: center;
+}
+.divmg{
+    text-align: center;
+}
+.sec2{
+    display: flex;
+    padding: 50px;
+    gap: 20px;
+}
+.sec2,p{
+    font-size: small;
+}
+.sec3{
+    padding-left: 60px;
+    
+}
+.secdiv{
+    display: flex;
+    gap: 20px;
+}
+.abt h1 {
+    text-align: center;
+    font-weight: bold;
+}
+.abt2{
+    text-align: center;
+    font-size: large;
+}
+.abt3{
+    background: #054a49 radial-gradient(circle at -48% 130%, #d0f224aa 24%, #054a49 45%);
+    text-align: center;
+}
+.build{
+    margin-bottom: 100px;
+    padding-top: 100px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    font-size:12px;
+    color: black;
+    text-align: center;
+    background: white;
+}
+.inpu{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;
+    background: black;
+}
+.inp{
+    color: white;
+    font-weight: lighter;
+    padding-bottom: 100px;
+    padding-bottom: 50px;
+}
+.accord{
+    width: 50%;
+    margin: auto;
+    /* padding: 2rem 0rem; */
+    padding: 40px;
+    background-color: #dff9ee;
+    color: #dff9ee;
+}
+.faq{
+    padding: 60px;
+    /* padding-bottom: 300px; */
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.last{
+    display: flex;
+    gap: 40px;
+    justify-content: end;
+    padding-right: 100px;
+    margin-bottom: 200px;
+}
+.last a{
+    color: black;
+    font-weight: bold;
+}
