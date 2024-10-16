@@ -51,19 +51,16 @@ p{
 }
 .sec2{
     display: flex;
-    padding: 50px;
-    gap: 20px;
+    justify-content: center;
+    gap: 50px;
 }
 .sec2,p{
     font-size: small;
 }
-.sec3{
-    padding-left: 60px;
-    
-}
 .secdiv{
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 .abt h1 {
     text-align: center;
